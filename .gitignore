@@ -1,0 +1,43 @@
+# Xilinx/Vitis/Vivado generated outputs
+.Xil/
+_x/
+*.jou
+*.log
+*.str
+*.xclbin
+*.xo
+*.ltx
+*.bit
+*.hwh
+*.xsa
+*.dcp
+*.rpt
+*.wcfg
+*.wdb
+
+# Build and simulation outputs
+build/
+artifacts/
+reports/
+sim/
+csim/
+csynth/
+solution*/
+package.*/
+
+# Runtime data dumps and generated tensors
+data/runtime/*
+!data/runtime/.gitkeep
+*.dat
+*.out
+layer*_*.txt
+weight_3x3.txt
+output*.txt
+
+# Local editor/cache files
+.vscode/
+.idea/
+*.swp
+*~
+__pycache__/
+

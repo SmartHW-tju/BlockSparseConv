@@ -1,9 +1,5 @@
 # BlockSparseConv
 
-FPGA/HLS implementation repository for the paper:
-
-`An Efficient Hardware Accelerator for Block Sparse Convolutional Neural Networks on FPGA`
-
 This repository contains a Xilinx Vitis/Vivado HLS implementation of a block-sparse CNN accelerator, an OpenCL/XRT host application, historical kernel variants kept for research traceability, and lightweight documentation for reproducing and extending the design.
 
 ## Relation To The Paper
